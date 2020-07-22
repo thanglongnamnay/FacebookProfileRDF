@@ -1,0 +1,861 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="https://schema.org/"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"
+    xmlns:j.1="http://xmlns.com/foaf/0.1/">
+  <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630">
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_2540430766073080">
+        <j.0:status_type>added_photos</j.0:status_type>
+        <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2540430722739751&amp;set=a.103574623092052&amp;type=3</j.0:anchor_link>
+        <j.0:name>Nguyễn Thái Dương</j.0:name>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/2540430766073080?substory_index=0</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_2122729291176565">
+        <j.0:comment>
+          <rdf:Description rdf:about="https://graph.facebook.com/2122729291176565_2122730424509785">
+            <j.0:created_by rdf:resource="https://graph.facebook.com/3070031879779630"/>
+            <j.0:message>btw sứ giả của sự thật cũng đã lên tiếng :v</j.0:message>
+            <j.0:created_time>2019-04-21T18:29:58+0000</j.0:created_time>
+          </rdf:Description>
+        </j.0:comment>
+        <j.0:status_type>added_photos</j.0:status_type>
+        <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2122728874509940&amp;set=a.450604705055707&amp;type=3</j.0:anchor_link>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/2122729291176565</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_2700303143419174">
+        <j.0:status_type>added_photos</j.0:status_type>
+        <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2700273836755438&amp;set=a.2700302506752571&amp;type=3</j.0:anchor_link>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/2700303143419174</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_1975533165896179">
+        <j.0:status_type>added_photos</j.0:status_type>
+        <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=1975533115896184&amp;set=a.103574623092052&amp;type=3</j.0:anchor_link>
+        <j.0:name>Nguyễn Thái Dương</j.0:name>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/1975533165896179?substory_index=0</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <vcard:FN>Nguyễn Thái Dương</vcard:FN>
+    <j.1:gender>male</j.1:gender>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_2825470490902438">
+        <j.0:status_type>mobile_status_update</j.0:status_type>
+        <j.0:anchor_link>https://www.facebook.com/CSGOQuotes/photos/a.347335999037726/945067892597864/?type=3</j.0:anchor_link>
+        <j.0:name>CSGO Quotes</j.0:name>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/2825470490902438</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_3014000285382790">
+        <j.0:status_type>mobile_status_update</j.0:status_type>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/3014000285382790</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:album>
+      <rdf:Description rdf:about="https://graph.facebook.com/103574623092052">
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/2540430722739751">
+            <j.0:url>https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-0/p130x130/78346005_2540430729406417_6654590859197022208_o.jpg?_nc_cat=101&amp;_nc_sid=85a577&amp;_nc_ohc=Tj4iZa59HaEAX-AAgFL&amp;_nc_ht=scontent.fhan3-3.fna&amp;_nc_tp=6&amp;oh=77683c2794b579627ef0d3297345b6fe&amp;oe=5F3B52A2</j.0:url>
+            <j.0:height>720</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1975533115896184">
+            <j.0:url>https://scontent.fhan3-2.fna.fbcdn.net/v/t1.0-0/p130x130/49652218_1975533119229517_8731582686436524032_o.jpg?_nc_cat=107&amp;_nc_sid=7aed08&amp;_nc_ohc=Wnb_IiBRXikAX-6XhIA&amp;_nc_ht=scontent.fhan3-2.fna&amp;_nc_tp=6&amp;oh=b7c214a8aecce1e39d176fb65dc0c2fe&amp;oe=5F3AC19C</j.0:url>
+            <j.0:height>720</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1147843655331805">
+            <j.0:url>https://scontent.fhan4-1.fna.fbcdn.net/v/t1.0-0/p130x130/15541601_1147843655331805_6459433171629734492_n.jpg?_nc_cat=104&amp;_nc_sid=7aed08&amp;_nc_ohc=1oGTdiot1jgAX-lULtR&amp;_nc_ht=scontent.fhan4-1.fna&amp;_nc_tp=6&amp;oh=2d15ab3c5b4aea88d8c82ddc6cd9ab3a&amp;oe=5F3B0A09</j.0:url>
+            <j.0:height>656</j.0:height>
+            <j.0:width>656</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/838109999638507">
+            <j.0:url>https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-0/p130x130/12079096_838109999638507_6574922040280960023_n.jpg?_nc_cat=101&amp;_nc_sid=7aed08&amp;_nc_ohc=t_HcH5lC6jQAX-PCAoQ&amp;_nc_ht=scontent.fhan3-3.fna&amp;_nc_tp=6&amp;oh=482e2e47d7bc72a3c2e0d93b0c4a5f3c&amp;oe=5F3990C1</j.0:url>
+            <j.0:height>720</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <vcard:NAME>Ảnh đại diện</vcard:NAME>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1414987905284044">
+            <j.0:url>https://scontent.fhan4-1.fna.fbcdn.net/v/t1.0-0/p130x130/21765096_1414987905284044_3385443084038161065_n.jpg?_nc_cat=104&amp;_nc_sid=7aed08&amp;_nc_ohc=RRpeNnfWtDQAX_MyiF9&amp;_nc_ht=scontent.fhan4-1.fna&amp;_nc_tp=6&amp;oh=9c6f0c7871facd5de18da23003f3f8a4&amp;oe=5F3B6FCB</j.0:url>
+            <j.0:height>520</j.0:height>
+            <j.0:width>520</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1092152440900927">
+            <j.0:url>https://scontent.fhan3-2.fna.fbcdn.net/v/t1.0-0/p130x130/14900611_1092152440900927_8459120720442944646_n.jpg?_nc_cat=103&amp;_nc_sid=7aed08&amp;_nc_ohc=FJ5K36a7qEAAX_6IwAL&amp;_nc_ht=scontent.fhan3-2.fna&amp;_nc_tp=6&amp;oh=79422343a5c608ba78f87b1ad7cdc735&amp;oe=5F3BAEA6</j.0:url>
+            <j.0:height>720</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1493895527393281">
+            <j.0:url>https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-0/p130x130/25446180_1493895527393281_1781882350978366011_n.jpg?_nc_cat=108&amp;_nc_sid=7aed08&amp;_nc_ohc=FPX8sww7Wz4AX-A3-XE&amp;_nc_ht=scontent.fhan3-3.fna&amp;_nc_tp=6&amp;oh=22d22c647921e2524e5e78ed243b0e7c&amp;oe=5F3C9868</j.0:url>
+            <j.0:height>718</j.0:height>
+            <j.0:width>718</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1098257416957096">
+            <j.0:url>https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-0/p130x130/14900582_1098257416957096_6661751043047667925_n.jpg?_nc_cat=110&amp;_nc_sid=7aed08&amp;_nc_ohc=WU-gbqJkSboAX_YGWw8&amp;_nc_ht=scontent.fhan3-1.fna&amp;_nc_tp=6&amp;oh=bfc649ca6f491f8f01f16ee7918689e4&amp;oe=5F3BDA39</j.0:url>
+            <j.0:height>720</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/809075902541917">
+            <j.0:url>https://scontent.fhan3-2.fna.fbcdn.net/v/t1.0-0/p130x130/11822462_809075902541917_2085372482103239476_n.jpg?_nc_cat=103&amp;_nc_sid=7aed08&amp;_nc_ohc=9BUI4Kq3hZcAX86eEpG&amp;_nc_ht=scontent.fhan3-2.fna&amp;_nc_tp=6&amp;oh=1e7b85e595e3886eef64966eb8bc0ed7&amp;oe=5F3A604A</j.0:url>
+            <j.0:height>570</j.0:height>
+            <j.0:width>570</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1295745480541621">
+            <j.0:url>https://scontent.fhan3-3.fna.fbcdn.net/v/t31.0-0/p130x130/18558757_1295745480541621_4010809142957405613_o.jpg?_nc_cat=100&amp;_nc_sid=7aed08&amp;_nc_ohc=PVcdMRkEhxYAX_ff1As&amp;_nc_ht=scontent.fhan3-3.fna&amp;_nc_tp=6&amp;oh=5da87dad2003b960e1f078f68559464a&amp;oe=5F3BE64A</j.0:url>
+            <j.0:height>720</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+      </rdf:Description>
+    </j.0:album>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_2098280833621411">
+        <j.0:status_type>mobile_status_update</j.0:status_type>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/2098280833621411</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:album>
+      <rdf:Description rdf:about="https://graph.facebook.com/1080047818778056">
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1080047425444762">
+            <j.0:url>https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-0/s130x130/14691120_1080047425444762_3154818200045037422_n.jpg?_nc_cat=109&amp;_nc_sid=110474&amp;_nc_ohc=LRcg3e-s_9oAX9LfD8V&amp;_nc_ht=scontent.fhan3-1.fna&amp;_nc_tp=7&amp;oh=997011d2447f08685a09fcc952715b42&amp;oe=5F3B12BF</j.0:url>
+            <j.0:height>540</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1119759188140252">
+            <j.0:url>https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-0/s130x130/15078637_1119759188140252_221562525281534064_n.jpg?_nc_cat=102&amp;_nc_sid=110474&amp;_nc_ohc=Jjy-fNJtk20AX_knP-n&amp;_nc_ht=scontent.fhan3-1.fna&amp;_nc_tp=7&amp;oh=fa9a2d1e206b3172c8067b88e03d0845&amp;oe=5F393AC7</j.0:url>
+            <j.0:height>540</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1227087247407445">
+            <j.0:url>https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-0/s130x130/17201439_1227087247407445_173199616231974243_n.jpg?_nc_cat=110&amp;_nc_sid=110474&amp;_nc_ohc=sCn0uS7prxgAX-6Nd0b&amp;_nc_ht=scontent.fhan3-1.fna&amp;_nc_tp=7&amp;oh=633b389d2fe457f1b2d62d6636713fc9&amp;oe=5F3CA1A5</j.0:url>
+            <j.0:height>720</j.0:height>
+            <j.0:width>540</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/2553130968136393">
+            <j.0:url>https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-0/s130x130/78820981_2553130971469726_4379191591789658112_n.jpg?_nc_cat=100&amp;_nc_sid=110474&amp;_nc_ohc=Ku9J2_2s83cAX9iZvvt&amp;_nc_ht=scontent.fhan3-3.fna&amp;_nc_tp=7&amp;oh=2a48ff6e33780a2e936e85ba67c0a3e0&amp;oe=5F3ABD4B</j.0:url>
+            <j.0:height>539</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <vcard:NAME>Tải lên từ di động</vcard:NAME>
+      </rdf:Description>
+    </j.0:album>
+    <vcard:ADR>Hanoi, Vietnam</vcard:ADR>
+    <j.0:album>
+      <rdf:Description rdf:about="https://graph.facebook.com/2700302506752571">
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/2700273836755438">
+            <j.0:url>https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-0/s130x130/86317157_2700273840088771_8437824927893028864_n.jpg?_nc_cat=100&amp;_nc_sid=0be424&amp;_nc_ohc=K57Ew0b7ItkAX_Cd07G&amp;_nc_ht=scontent.fhan3-3.fna&amp;_nc_tp=7&amp;oh=fc2bfa3cce7827dcf87b4f9a2f0f9df9&amp;oe=5F3B2B9A</j.0:url>
+            <j.0:height>540</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <vcard:NAME>Thái Dương: Far from home (JP2020)</vcard:NAME>
+      </rdf:Description>
+    </j.0:album>
+    <j.0:album>
+      <rdf:Description rdf:about="https://graph.facebook.com/450604705055707">
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/772738066175701">
+            <j.0:url>https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-0/s130x130/11108183_772738066175701_8167313414326475332_n.jpg?_nc_cat=106&amp;_nc_sid=8024bb&amp;_nc_ohc=EdfBZc-WUpwAX_toH2S&amp;_nc_ht=scontent.fhan3-3.fna&amp;_nc_tp=7&amp;oh=53c4d1366183b86494e351b28053cfa4&amp;oe=5F39CB54</j.0:url>
+            <j.0:height>604</j.0:height>
+            <j.0:width>715</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1918464148269748">
+            <j.0:url>https://scontent.fhan3-2.fna.fbcdn.net/v/t1.0-0/s130x130/47056289_1918464151603081_2141304680414707712_o.jpg?_nc_cat=103&amp;_nc_sid=8024bb&amp;_nc_ohc=dlnD9kbU52MAX-S3sP9&amp;_nc_ht=scontent.fhan3-2.fna&amp;_nc_tp=7&amp;oh=905bf797457086bc4edc619544b55aef&amp;oe=5F3A06EF</j.0:url>
+            <j.0:height>480</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <vcard:NAME>Ảnh trên dòng thời gian</vcard:NAME>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1161725623943608">
+            <j.0:url>https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-0/s130x130/15823156_1161725623943608_2422474811333498483_n.jpg?_nc_cat=108&amp;_nc_sid=8024bb&amp;_nc_ohc=8U6c4hqV9gQAX_vBDvA&amp;_nc_ht=scontent.fhan3-3.fna&amp;_nc_tp=7&amp;oh=ebd8b895fb572e5e3f4e8dc534ae9df5&amp;oe=5F39731E</j.0:url>
+            <j.0:height>540</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/706024546180387">
+            <j.0:url>https://scontent.fhan3-2.fna.fbcdn.net/v/t31.0-0/s130x130/1511550_706024546180387_8807685104073599041_o.jpg?_nc_cat=103&amp;_nc_sid=da1649&amp;_nc_ohc=8kTOzL8OJlYAX8bO7Sr&amp;_nc_ht=scontent.fhan3-2.fna&amp;_nc_tp=7&amp;oh=87c38499d0bf27828cc65f0b2930770a&amp;oe=5F3C4659</j.0:url>
+            <j.0:height>404</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1250732885042881">
+            <j.0:url>https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-0/p130x130/17634291_1250732885042881_5221135699982139229_n.jpg?_nc_cat=100&amp;_nc_sid=8024bb&amp;_nc_ohc=E5bekOdRowsAX8gdskZ&amp;_nc_ht=scontent.fhan3-3.fna&amp;_nc_tp=6&amp;oh=9d27ee39e959ea77eccac3905958f26f&amp;oe=5F395EB8</j.0:url>
+            <j.0:height>720</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1530551093727724">
+            <j.0:url>https://scontent.fhan3-1.fna.fbcdn.net/v/t31.0-0/s130x130/26841300_1530551093727724_963683149710616270_o.jpg?_nc_cat=111&amp;_nc_sid=8024bb&amp;_nc_ohc=RV1WMvrIGuAAX_RnAIr&amp;_nc_ht=scontent.fhan3-1.fna&amp;_nc_tp=7&amp;oh=c073d5f8270719612ace3adb2d069ed1&amp;oe=5F3B2E58</j.0:url>
+            <j.0:height>405</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/772738069509034">
+            <j.0:url>https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-0/s130x130/11060932_772738069509034_2941496249549645894_n.jpg?_nc_cat=111&amp;_nc_sid=8024bb&amp;_nc_ohc=-GQyhCSEjEQAX9Q7uLb&amp;_nc_ht=scontent.fhan3-1.fna&amp;_nc_tp=7&amp;oh=53f898c751129e5ffb8625cb9f2bb2ca&amp;oe=5F3C54FF</j.0:url>
+            <j.0:height>572</j.0:height>
+            <j.0:width>700</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/669554776494031">
+            <j.0:url>https://scontent.fhan3-1.fna.fbcdn.net/v/t31.0-0/s130x130/10321558_669554776494031_7281438834115768010_o.jpg?_nc_cat=109&amp;_nc_sid=da1649&amp;_nc_ohc=LvVbBrhbl2oAX-V0LvJ&amp;_nc_ht=scontent.fhan3-1.fna&amp;_nc_tp=7&amp;oh=0207d1ddc242c4d64dc7363c4420ba4f&amp;oe=5F3BE073</j.0:url>
+            <j.0:height>404</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/2122728874509940">
+            <j.0:url>https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-0/s130x130/58377879_2122728884509939_8125537220145709056_o.jpg?_nc_cat=109&amp;_nc_sid=8024bb&amp;_nc_ohc=VC5AQhAZ76AAX-PEtYK&amp;_nc_ht=scontent.fhan3-1.fna&amp;_nc_tp=7&amp;oh=54ec61bce13f179e0a79c57e931340f2&amp;oe=5F3B7D28</j.0:url>
+            <j.0:height>391</j.0:height>
+            <j.0:width>720</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+        <j.0:photo>
+          <rdf:Description rdf:about="https://graph.facebook.com/1524709674311866">
+            <j.0:url>https://scontent.fhan3-1.fna.fbcdn.net/v/t31.0-0/s168x128/26677969_1524709674311866_2787036703954933377_o.jpg?_nc_cat=110&amp;_nc_sid=8024bb&amp;_nc_ohc=cWBa3BldFAYAX_2VkHg&amp;_nc_ht=scontent.fhan3-1.fna&amp;_nc_tp=7&amp;oh=0c433a6c4eaba0b3fbd00a11661b1075&amp;oe=5F39F8E7</j.0:url>
+            <j.0:height>720</j.0:height>
+            <j.0:width>540</j.0:width>
+          </rdf:Description>
+        </j.0:photo>
+      </rdf:Description>
+    </j.0:album>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_1918467228269440">
+        <j.0:status_type>added_photos</j.0:status_type>
+        <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=1918464148269748&amp;set=a.450604705055707&amp;type=3</j.0:anchor_link>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/1918467228269440</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_2157416117707882">
+        <j.0:status_type>mobile_status_update</j.0:status_type>
+        <j.0:anchor_link>https://www.facebook.com/VietnamAirlines/photos/a.135210329866147/2176894822364344/?type=3</j.0:anchor_link>
+        <j.0:name>Vietnam Airlines</j.0:name>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/2157416117707882</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_2553145681468255">
+        <j.0:status_type>added_photos</j.0:status_type>
+        <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2553130968136393&amp;set=a.1080047818778056&amp;type=3</j.0:anchor_link>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/2553145681468255</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_2652396511543171">
+        <j.0:status_type>mobile_status_update</j.0:status_type>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/2652396511543171</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_1949009895215173">
+        <j.0:status_type>mobile_status_update</j.0:status_type>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/1949009895215173</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <vcard:BDAY>09/06/1998</vcard:BDAY>
+    <j.0:friend>
+      <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020">
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2878633618926822">
+            <j.0:status_type>shared_story</j.0:status_type>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2878633618926822</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2234571086666415">
+            <j.0:status_type>added_photos</j.0:status_type>
+            <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2234571003333090&amp;set=a.286733568116853&amp;type=3</j.0:anchor_link>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2234571086666415</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <vcard:BDAY>02/06/1998</vcard:BDAY>
+        <j.0:album>
+          <rdf:Description rdf:about="https://graph.facebook.com/286733568116853">
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1548752538581610">
+                <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t31.0-0/s130x130/29354402_1548752538581610_327430681174672177_o.jpg?_nc_cat=110&amp;_nc_sid=8024bb&amp;_nc_ohc=R5Qg0xeTgfMAX-Hycfm&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=7&amp;oh=eed61dc5026a2b3087e95e292b02f552&amp;oe=5F3BD2B7</j.0:url>
+                <j.0:height>404</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/2210146992442158">
+                <j.0:url>https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-0/s130x130/67427509_2210146999108824_7699716132147560448_o.jpg?_nc_cat=106&amp;_nc_sid=8024bb&amp;_nc_ohc=0yk0SbxxuXMAX9m7AUx&amp;_nc_ht=scontent.fhan2-2.fna&amp;_nc_tp=7&amp;oh=3c58a8cd5758b1b9f0c9fc2c7d2f44b7&amp;oe=5F3C4E9F</j.0:url>
+                <j.0:height>405</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/2746342112155974">
+                <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/s130x130/93670721_2746342115489307_3902858991151087616_o.jpg?_nc_cat=109&amp;_nc_sid=8024bb&amp;_nc_ohc=2R1Y2zNoe5cAX8rGRd4&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=7&amp;oh=c204e573cf37efd885a1fe1200441ba3&amp;oe=5F3C2F91</j.0:url>
+                <j.0:height>405</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/2234571003333090">
+                <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/s130x130/67787574_2234571009999756_1457197376065241088_o.jpg?_nc_cat=107&amp;_nc_sid=8024bb&amp;_nc_ohc=kcUXjN9TulIAX8yLlt8&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=7&amp;oh=3cd7e02d7886bc7e95f43ff75a61778c&amp;oe=5F3C57C2</j.0:url>
+                <j.0:height>405</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/2221541231302734">
+                <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-0/s130x130/67393203_2221541237969400_296516678030721024_o.jpg?_nc_cat=100&amp;_nc_sid=8024bb&amp;_nc_ohc=Ps1sCURZOLAAX9gS18M&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=7&amp;oh=05bba220b3051f3dc9537a8d683cdb6f&amp;oe=5F3A3F04</j.0:url>
+                <j.0:height>405</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/2236079296515594">
+                <j.0:url>https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-0/s130x130/68570682_2236079299848927_7898386355594461184_o.jpg?_nc_cat=102&amp;_nc_sid=8024bb&amp;_nc_ohc=PrEIyrINPEQAX_Tu32S&amp;_nc_ht=scontent.fhan2-1.fna&amp;_nc_tp=7&amp;oh=288fac7a43cc0154c5321e1054c0d33b&amp;oe=5F395856</j.0:url>
+                <j.0:height>405</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <vcard:NAME>Timeline Photos</vcard:NAME>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1540775692712628">
+                <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t31.0-0/s130x130/28828132_1540775692712628_3370942791257138878_o.jpg?_nc_cat=100&amp;_nc_sid=8024bb&amp;_nc_ohc=nPsbveCP_FcAX9pjiQf&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=7&amp;oh=b27783cc78f8e4ce5c35ed2999a5d1cc&amp;oe=5F3B236A</j.0:url>
+                <j.0:height>404</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1876266189163575">
+                <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-0/s130x130/48056267_1876266192496908_754493546223894528_o.jpg?_nc_cat=105&amp;_nc_sid=8024bb&amp;_nc_ohc=tCtvSDv2924AX_9ZTHN&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=7&amp;oh=007633f662a317871ca1f69bac488d60&amp;oe=5F3BB8CB</j.0:url>
+                <j.0:height>378</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1611638448959685">
+                <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/s130x130/34276592_1611638455626351_7878176421342871552_o.jpg?_nc_cat=108&amp;_nc_sid=8024bb&amp;_nc_ohc=qENAHKmexPIAX_FR5ga&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=7&amp;oh=90184782429e43ae74b687e4ffbc1d94&amp;oe=5F3A4E2C</j.0:url>
+                <j.0:height>404</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/2236161549840702">
+                <j.0:url>https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-0/s130x130/67744750_2236161553174035_2785245034000154624_o.jpg?_nc_cat=103&amp;_nc_sid=8024bb&amp;_nc_ohc=rOGOOtZdnlIAX-qpRa8&amp;_nc_ht=scontent.fhan2-1.fna&amp;_nc_tp=7&amp;oh=1c159605852d4688536574ff15ac6782&amp;oe=5F3AEEDB</j.0:url>
+                <j.0:height>405</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+          </rdf:Description>
+        </j.0:album>
+        <j.0:id>1887831738007020</j.0:id>
+        <j.1:gender>male</j.1:gender>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2210147122442145">
+            <j.0:status_type>added_photos</j.0:status_type>
+            <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2210146992442158&amp;set=a.286733568116853&amp;type=3</j.0:anchor_link>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2210147122442145</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <vcard:ADR>Hanoi, Vietnam</vcard:ADR>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2236161653174025">
+            <j.0:comment>
+              <rdf:Description rdf:about="https://graph.facebook.com/2236161653174025_2293655604091296">
+                <j.0:created_by rdf:resource="https://graph.facebook.com/1887831738007020"/>
+                <j.0:message>xoxo</j.0:message>
+                <j.0:created_time>2019-09-09T01:10:13+0000</j.0:created_time>
+              </rdf:Description>
+            </j.0:comment>
+            <j.0:comment>
+              <rdf:Description rdf:about="https://graph.facebook.com/2236161653174025_2293655474091309">
+                <j.0:created_by rdf:resource="https://graph.facebook.com/1887831738007020"/>
+                <j.0:message>xo</j.0:message>
+                <j.0:created_time>2019-09-09T01:10:08+0000</j.0:created_time>
+              </rdf:Description>
+            </j.0:comment>
+            <j.0:comment>
+              <rdf:Description rdf:about="https://graph.facebook.com/2236161653174025_2293654464091410">
+                <j.0:created_by rdf:resource="https://graph.facebook.com/1887831738007020"/>
+                <j.0:message>wonderful time</j.0:message>
+                <j.0:created_time>2019-09-09T01:09:19+0000</j.0:created_time>
+              </rdf:Description>
+            </j.0:comment>
+            <j.0:comment>
+              <rdf:Description rdf:about="https://graph.facebook.com/2236161653174025_2293654320758091">
+                <j.0:created_by rdf:resource="https://graph.facebook.com/1887831738007020"/>
+                <j.0:message>ươnderful time</j.0:message>
+                <j.0:created_time>2019-09-09T01:09:14+0000</j.0:created_time>
+              </rdf:Description>
+            </j.0:comment>
+            <j.0:comment>
+              <rdf:Description rdf:about="https://graph.facebook.com/2236161653174025_2293654174091439">
+                <j.0:created_by rdf:resource="https://graph.facebook.com/1887831738007020"/>
+                <j.0:message>great time</j.0:message>
+                <j.0:created_time>2019-09-09T01:09:05+0000</j.0:created_time>
+              </rdf:Description>
+            </j.0:comment>
+            <j.0:status_type>added_photos</j.0:status_type>
+            <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2236161549840702&amp;set=a.286733568116853&amp;type=3</j.0:anchor_link>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2236161653174025</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2878634562260061">
+            <j.0:status_type>shared_story</j.0:status_type>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2878634562260061</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:album>
+          <rdf:Description rdf:about="https://graph.facebook.com/401692286620980">
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/2559871334136387">
+                <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/s130x130/83684982_2559871340803053_3396680465204117504_o.jpg?_nc_cat=108&amp;_nc_sid=110474&amp;_nc_ohc=kt6z_VDchgsAX-0moL9&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=7&amp;oh=d82808d850b1d2451768d4d323ee644e&amp;oe=5F3A6AEF</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>405</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1260128554110678">
+                <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-0/s130x130/18882133_1260128554110678_5117090185696725194_n.jpg?_nc_cat=110&amp;_nc_sid=110474&amp;_nc_ohc=Cg3Ia1v5o4EAX-eHNXC&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=7&amp;oh=2b8d9f26de47ba7d389ee0e6a1758a62&amp;oe=5F3A1D85</j.0:url>
+                <j.0:height>540</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1118068274983374">
+                <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/s130x130/16114212_1118068274983374_1145523968760296439_n.jpg?_nc_cat=108&amp;_nc_sid=110474&amp;_nc_ohc=07xza0D1-HMAX-x_sqT&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=7&amp;oh=ee938ebfa0ba17a897d9a5e3c4cf72af&amp;oe=5F3B7DCD</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>480</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/2342590245864498">
+                <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/s130x130/71825714_2342590249197831_5874044930413821952_o.jpg?_nc_cat=109&amp;_nc_sid=110474&amp;_nc_ohc=vfsH-X3nGIQAX98A7Vu&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=7&amp;oh=870b8fdba4d31719a166ccc7cd594b2c&amp;oe=5F38FD09</j.0:url>
+                <j.0:height>405</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1130272873762914">
+                <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t31.0-0/p130x130/16402826_1130272873762914_8677754005299499116_o.jpg?_nc_cat=107&amp;_nc_sid=110474&amp;_nc_ohc=pyF4QtFRrf4AX82-Pnm&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=6&amp;oh=819f50e0ecdf921843ef73bedf353c18&amp;oe=5F3AEE44</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1078519885604880">
+                <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t31.0-0/s130x130/15259513_1078519885604880_5097090594470672978_o.jpg?_nc_cat=104&amp;_nc_sid=110474&amp;_nc_ohc=hYo4UZT1eccAX8S15Hn&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=7&amp;oh=8def0df820b73ccb5b7a667720851715&amp;oe=5F3A3402</j.0:url>
+                <j.0:height>405</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1105306859592849">
+                <j.0:url>https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-0/s130x130/15826741_1105306859592849_8422124861701504136_n.jpg?_nc_cat=106&amp;_nc_sid=110474&amp;_nc_ohc=lob2Whm4mYoAX9HxidX&amp;_nc_ht=scontent.fhan2-2.fna&amp;_nc_tp=7&amp;oh=1cb8fc1ec3378404486a517084aa3bd3&amp;oe=5F3B7BC8</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>540</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <vcard:NAME>Mobile Uploads</vcard:NAME>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1076201505836718">
+                <j.0:url>https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-0/s130x130/15241747_1076201505836718_7921172659138837822_n.jpg?_nc_cat=106&amp;_nc_sid=110474&amp;_nc_ohc=4Jbh5zeZNhkAX-VxPi7&amp;_nc_ht=scontent.fhan2-2.fna&amp;_nc_tp=7&amp;oh=77a69113e501ef3a27792998c294209e&amp;oe=5F3A6198</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>480</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1061896567267212">
+                <j.0:url>https://scontent.fhan2-1.fna.fbcdn.net/v/t31.0-0/p130x130/15122989_1061896567267212_7352835299466026818_o.jpg?_nc_cat=103&amp;_nc_sid=110474&amp;_nc_ohc=tzn4F_Vb1PwAX8ffsfm&amp;_nc_ht=scontent.fhan2-1.fna&amp;_nc_tp=6&amp;oh=f97da5f0911e20834e01f8142161a53a&amp;oe=5F3BC6C4</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/2559853934138127">
+                <j.0:url>https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-0/s130x130/82437224_2559853940804793_635725339573616640_o.jpg?_nc_cat=106&amp;_nc_sid=110474&amp;_nc_ohc=MHzy5yaoxHUAX83Z8DJ&amp;_nc_ht=scontent.fhan2-2.fna&amp;_nc_tp=7&amp;oh=f55f696d321c98c4bd4469f654458485&amp;oe=5F39C989</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>405</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+          </rdf:Description>
+        </j.0:album>
+        <j.0:album>
+          <rdf:Description rdf:about="https://graph.facebook.com/1619605194829677">
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1619605228163007">
+                <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/s130x130/34962668_1619605231496340_541138967030923264_n.jpg?_nc_cat=108&amp;_nc_sid=daf655&amp;_nc_ohc=sb8WJH_1DvsAX-bTyla&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=7&amp;oh=283c7bed39dabc5e608b43ad12f912a7&amp;oe=5F396CAD</j.0:url>
+                <j.0:height>424</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <vcard:NAME>WordPress Photos</vcard:NAME>
+          </rdf:Description>
+        </j.0:album>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2968298659960317">
+            <j.0:status_type>mobile_status_update</j.0:status_type>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2968298659960317</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <vcard:FN>Nguyễn Thăng Long</vcard:FN>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2746342325489286">
+            <j.0:status_type>added_photos</j.0:status_type>
+            <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2746342112155974&amp;set=a.286733568116853&amp;type=3</j.0:anchor_link>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2746342325489286</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:friend rdf:resource="https://graph.facebook.com/3070031879779630"/>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2559871450803042">
+            <j.0:status_type>added_photos</j.0:status_type>
+            <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2559853934138127&amp;set=a.401692286620980&amp;type=3</j.0:anchor_link>
+            <j.0:name>Photos from Nguyễn Thăng Long's post</j.0:name>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2559871450803042</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2236079773182213">
+            <j.0:status_type>added_photos</j.0:status_type>
+            <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2236079296515594&amp;set=a.286733568116853&amp;type=3</j.0:anchor_link>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2236079773182213</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2213373255452865">
+            <j.0:status_type>mobile_status_update</j.0:status_type>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2213373255452865</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2970926636364186">
+            <j.0:status_type>mobile_status_update</j.0:status_type>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2970926636364186</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:friend>
+          <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997">
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_841485916217371">
+                <j.0:status_type>added_photos</j.0:status_type>
+                <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=841485889550707&amp;set=a.420868114945822&amp;type=3</j.0:anchor_link>
+                <j.0:name>Length's cover photo</j.0:name>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/841485916217371</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_370937749938859">
+                <j.0:status_type>shared_story</j.0:status_type>
+                <j.0:anchor_link>http://itunes.apple.com/app/id509204969</j.0:anchor_link>
+                <j.0:name>Moves</j.0:name>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/370937749938859</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <vcard:FN>Length Nguyen</vcard:FN>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_304795013219800">
+                <j.0:status_type>added_photos</j.0:status_type>
+                <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=304794996553135&amp;set=a.304795009886467&amp;type=3</j.0:anchor_link>
+                <j.0:name>Length Nguyen</j.0:name>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/304795013219800?substory_index=0</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_420440781655222">
+                <j.0:status_type>mobile_status_update</j.0:status_type>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/420440781655222</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_459915337707766">
+                <j.0:status_type>added_video</j.0:status_type>
+                <j.0:anchor_link>https://www.facebook.com/1207379619627997/videos/459915297707770</j.0:anchor_link>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/459915337707766</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_841490762883553">
+                <j.0:status_type>added_photos</j.0:status_type>
+                <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=841490406216922&amp;set=a.420868114945822&amp;type=3</j.0:anchor_link>
+                <j.0:name>Length's cover photo</j.0:name>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/841490762883553</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_305965613102740">
+                <j.0:status_type>added_photos</j.0:status_type>
+                <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=305965566436078&amp;set=a.304795009886467&amp;type=3</j.0:anchor_link>
+                <j.0:name>Length Nguyen</j.0:name>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/305965613102740?substory_index=0</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <j.0:album>
+              <rdf:Description rdf:about="https://graph.facebook.com/623636094669022">
+                <j.0:photo>
+                  <rdf:Description rdf:about="https://graph.facebook.com/623636021335696">
+                    <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/p110x80/35971498_623636028002362_6194757113433030656_o.jpg?_nc_cat=108&amp;_nc_sid=8024bb&amp;_nc_ohc=gGbSWB1mOMEAX_JSCN2&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=6&amp;oh=787d11231232c737b7adee27eac7620b&amp;oe=5F394E32</j.0:url>
+                    <j.0:height>444</j.0:height>
+                    <j.0:width>720</j.0:width>
+                  </rdf:Description>
+                </j.0:photo>
+                <vcard:NAME>Timeline Photos</vcard:NAME>
+              </rdf:Description>
+            </j.0:album>
+            <j.0:album>
+              <rdf:Description rdf:about="https://graph.facebook.com/420868114945822">
+                <j.0:photo>
+                  <rdf:Description rdf:about="https://graph.facebook.com/420868078279159">
+                    <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t31.0-0/s168x128/18077072_420868078279159_3891927887267753588_o.jpg?_nc_cat=100&amp;_nc_sid=05277f&amp;_nc_ohc=sKYDyu0VpY0AX9PIqDY&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=7&amp;oh=f222caf618db0b7213f9455145d9112f&amp;oe=5F3BB081</j.0:url>
+                    <j.0:height>720</j.0:height>
+                    <j.0:width>628</j.0:width>
+                  </rdf:Description>
+                </j.0:photo>
+                <j.0:photo>
+                  <rdf:Description rdf:about="https://graph.facebook.com/841485889550707">
+                    <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/s130x130/56281546_841485892884040_3778714894195490816_o.jpg?_nc_cat=108&amp;_nc_sid=05277f&amp;_nc_ohc=29aJDPXhEeIAX-VGTW3&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=7&amp;oh=2bb4221ff514809725646decc73c8af6&amp;oe=5F3BC657</j.0:url>
+                    <j.0:height>479</j.0:height>
+                    <j.0:width>720</j.0:width>
+                  </rdf:Description>
+                </j.0:photo>
+                <j.0:photo>
+                  <rdf:Description rdf:about="https://graph.facebook.com/841490406216922">
+                    <j.0:url>https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-0/s130x130/56227934_841490412883588_3581549386770939904_o.jpg?_nc_cat=103&amp;_nc_sid=dd9801&amp;_nc_ohc=8o3GHHpjUpwAX-IrgAN&amp;_nc_ht=scontent.fhan2-1.fna&amp;_nc_tp=7&amp;oh=5a2e6854de59de25845d39643115f3e6&amp;oe=5F38FBE1</j.0:url>
+                    <j.0:height>449</j.0:height>
+                    <j.0:width>720</j.0:width>
+                  </rdf:Description>
+                </j.0:photo>
+                <vcard:NAME>Cover photos</vcard:NAME>
+              </rdf:Description>
+            </j.0:album>
+            <j.0:album>
+              <rdf:Description rdf:about="https://graph.facebook.com/304795009886467">
+                <j.0:photo>
+                  <rdf:Description rdf:about="https://graph.facebook.com/304794996553135">
+                    <j.0:url>https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-0/p130x130/14333170_304794996553135_6201380357412799207_n.jpg?_nc_cat=102&amp;_nc_sid=7aed08&amp;_nc_ohc=BfJQ3u3wnyoAX_0wCXY&amp;_nc_ht=scontent.fhan2-1.fna&amp;_nc_tp=6&amp;oh=c833acea4e4a0e8357981527ba4af82e&amp;oe=5F3973DB</j.0:url>
+                    <j.0:height>640</j.0:height>
+                    <j.0:width>640</j.0:width>
+                  </rdf:Description>
+                </j.0:photo>
+                <j.0:photo>
+                  <rdf:Description rdf:about="https://graph.facebook.com/305965566436078">
+                    <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/p130x130/14355074_305965566436078_6110573425963145698_n.jpg?_nc_cat=108&amp;_nc_sid=85a577&amp;_nc_ohc=1WcmqQkOdg4AX8pyIxe&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=6&amp;oh=52b7d03c5547a7bd77dd2119ee48d6f3&amp;oe=5F3B5575</j.0:url>
+                    <j.0:height>480</j.0:height>
+                    <j.0:width>480</j.0:width>
+                  </rdf:Description>
+                </j.0:photo>
+                <vcard:NAME>Profile pictures</vcard:NAME>
+              </rdf:Description>
+            </j.0:album>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_420868121612488">
+                <j.0:status_type>added_photos</j.0:status_type>
+                <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=420868078279159&amp;set=a.420868114945822&amp;type=3</j.0:anchor_link>
+                <j.0:name>Length's cover photo</j.0:name>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/420868121612488</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <j.1:gender>female</j.1:gender>
+            <vcard:ADR>Hanoi, Vietnam</vcard:ADR>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_122512941448009">
+                <j.0:caption>Born on 4 July 1998</j.0:caption>
+                <j.0:anchor_link>https://www.facebook.com/1207379619627997/posts/122512941448009</j.0:anchor_link>
+                <j.0:name>Born on 4 July 1998</j.0:name>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/122512941448009</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <j.0:id>1887831738007020</j.0:id>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_813508862348410">
+                <j.0:status_type>mobile_status_update</j.0:status_type>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/813508862348410</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <vcard:BDAY>07/04/1998</vcard:BDAY>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_623636098002355">
+                <j.0:status_type>added_photos</j.0:status_type>
+                <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=623636021335696&amp;set=a.623636094669022&amp;type=3</j.0:anchor_link>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/623636098002355</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+            <j.0:friend rdf:resource="https://graph.facebook.com/1887831738007020"/>
+            <j.0:post>
+              <rdf:Description rdf:about="https://graph.facebook.com/1207379619627997_370937779938856">
+                <j.0:status_type>shared_story</j.0:status_type>
+                <j.0:anchor_link>http://itunes.apple.com/app/id509204969</j.0:anchor_link>
+                <j.0:name>Moves</j.0:name>
+                <j.0:permalink_url>https://www.facebook.com/1207379619627997/posts/370937779938856</j.0:permalink_url>
+              </rdf:Description>
+            </j.0:post>
+          </rdf:Description>
+        </j.0:friend>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2221541364636054">
+            <j.0:status_type>added_photos</j.0:status_type>
+            <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2221541231302734&amp;set=a.286733568116853&amp;type=3</j.0:anchor_link>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2221541364636054</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:album>
+          <rdf:Description rdf:about="https://graph.facebook.com/208585782598299">
+            <vcard:NAME>Profile Pictures</vcard:NAME>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1131079843682217">
+                <j.0:url>https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-0/p130x130/16265243_1131079843682217_2500909698722005395_n.jpg?_nc_cat=101&amp;_nc_sid=7aed08&amp;_nc_ohc=f1v2jZWUK4EAX8B6pCA&amp;_nc_ht=scontent.fhan2-1.fna&amp;_nc_tp=6&amp;oh=aa6bc398546b33eb4e59c782a55776cb&amp;oe=5F3BD500</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1027393514050851">
+                <j.0:url>https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/p130x130/14671351_1027393514050851_7740767266893103733_n.jpg?_nc_cat=107&amp;_nc_sid=7aed08&amp;_nc_ohc=MtYQ-920b5kAX-h3y9Z&amp;_nc_ht=scontent.fhan2-3.fna&amp;_nc_tp=6&amp;oh=531bc4ae9d1782f15c46f1603bfe3942&amp;oe=5F3C6EFF</j.0:url>
+                <j.0:height>500</j.0:height>
+                <j.0:width>500</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1188303847959816">
+                <j.0:url>https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-0/p130x130/17634604_1188303847959816_805581717375856405_n.jpg?_nc_cat=103&amp;_nc_sid=7aed08&amp;_nc_ohc=lUIOvgZk6RoAX_FfUlK&amp;_nc_ht=scontent.fhan2-1.fna&amp;_nc_tp=6&amp;oh=8642d8dc7b560400dc2243107df39a07&amp;oe=5F3CBC34</j.0:url>
+                <j.0:height>435</j.0:height>
+                <j.0:width>435</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1071708869619315">
+                <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-0/p130x130/15203157_1071708869619315_2504701219088973955_n.jpg?_nc_cat=100&amp;_nc_sid=7aed08&amp;_nc_ohc=4nvlA92w-ykAX86J0QJ&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=6&amp;oh=d52c77812f5632209d76e0a9578a838e&amp;oe=5F3C93BA</j.0:url>
+                <j.0:height>479</j.0:height>
+                <j.0:width>480</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1159174830872718">
+                <j.0:url>https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-0/p130x130/17021409_1159174830872718_33088836884939900_n.jpg?_nc_cat=102&amp;_nc_sid=7aed08&amp;_nc_ohc=bN-eH9lGiIQAX-AAlRW&amp;_nc_ht=scontent.fhan2-1.fna&amp;_nc_tp=6&amp;oh=1adbd2dc8ec9ae1cee6949c47151156f&amp;oe=5F3917C5</j.0:url>
+                <j.0:height>319</j.0:height>
+                <j.0:width>319</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1136201553170046">
+                <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t31.0-0/p130x130/16462945_1136201553170046_4876805081607403345_o.jpg?_nc_cat=110&amp;_nc_sid=7aed08&amp;_nc_ohc=LdmTMX8ZHPMAX-zLMCi&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=6&amp;oh=f3c6f814dc373839685abf18dd2654ca&amp;oe=5F3A8621</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1379001968890002">
+                <j.0:url>https://scontent.fhan2-1.fna.fbcdn.net/v/t31.0-0/p130x130/22137069_1379001968890002_6755927262739612667_o.jpg?_nc_cat=101&amp;_nc_sid=7aed08&amp;_nc_ohc=_he9_VSzSWAAX93T-Ac&amp;_nc_ht=scontent.fhan2-1.fna&amp;_nc_tp=6&amp;oh=2c767dc44565030e0a24ba487efd5793&amp;oe=5F3BE8C7</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1932860920170768">
+                <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-0/p130x130/50870286_1932860926837434_7554041175158554624_n.jpg?_nc_cat=105&amp;_nc_sid=85a577&amp;_nc_ohc=MWd8oifFldQAX_5oprr&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=6&amp;oh=309c8d2b71b9ddfb5e0d04dc142ffe14&amp;oe=5F392799</j.0:url>
+                <j.0:height>637</j.0:height>
+                <j.0:width>637</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1373924416064424">
+                <j.0:url>https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-0/p130x130/22008115_1373924416064424_2056683671923003248_n.jpg?_nc_cat=105&amp;_nc_sid=7aed08&amp;_nc_ohc=6OWddaTZuewAX9Wz2T8&amp;_nc_ht=scontent.fhan2-4.fna&amp;_nc_tp=6&amp;oh=0c24806e6019d64d365ab3092344ea58&amp;oe=5F3B599A</j.0:url>
+                <j.0:height>720</j.0:height>
+                <j.0:width>720</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+            <j.0:photo>
+              <rdf:Description rdf:about="https://graph.facebook.com/1044405782349624">
+                <j.0:url>https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-0/p130x130/14925334_1044405782349624_6043231444039423877_n.jpg?_nc_cat=106&amp;_nc_sid=7aed08&amp;_nc_ohc=-7hRfjE8SuwAX8LRzGX&amp;_nc_ht=scontent.fhan2-2.fna&amp;_nc_tp=6&amp;oh=61aa48922a12fa4c9b25913860e8894e&amp;oe=5F392FAE</j.0:url>
+                <j.0:height>600</j.0:height>
+                <j.0:width>600</j.0:width>
+              </rdf:Description>
+            </j.0:photo>
+          </rdf:Description>
+        </j.0:album>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2342600229196833">
+            <j.0:status_type>added_photos</j.0:status_type>
+            <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=2342590245864498&amp;set=a.401692286620980&amp;type=3</j.0:anchor_link>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2342600229196833</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2634352746688245">
+            <j.0:status_type>shared_story</j.0:status_type>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2634352746688245</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+        <j.0:post>
+          <rdf:Description rdf:about="https://graph.facebook.com/1887831738007020_2683243695132483">
+            <j.0:status_type>mobile_status_update</j.0:status_type>
+            <j.0:anchor_link>https://www.facebook.com/tuyendung.vnghanoi/photos/a.459951134162518/1541151326042488/?type=3</j.0:anchor_link>
+            <j.0:name>Tuyển dụng- VNG Corp- Hà Nội</j.0:name>
+            <j.0:permalink_url>https://www.facebook.com/1887831738007020/posts/2683243695132483</j.0:permalink_url>
+          </rdf:Description>
+        </j.0:post>
+      </rdf:Description>
+    </j.0:friend>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_1789447407838090">
+        <j.0:status_type>added_photos</j.0:status_type>
+        <j.0:anchor_link>https://www.facebook.com/photo.php?fbid=809075902541917&amp;set=a.103574623092052&amp;type=3</j.0:anchor_link>
+        <j.0:name>Nguyễn Thái Dương</j.0:name>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/1789447407838090?substory_index=0</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_2334417493341076">
+        <j.0:status_type>mobile_status_update</j.0:status_type>
+        <j.0:anchor_link>https://www.facebook.com/wykrhmreddy/photos/a.255722787803667/3076577352384849/?type=3</j.0:anchor_link>
+        <j.0:name>Wykrhm Reddy</j.0:name>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/2334417493341076</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+    <j.0:id>1887831738007020</j.0:id>
+    <j.0:post>
+      <rdf:Description rdf:about="https://graph.facebook.com/3070031879779630_1859839474132216">
+        <j.0:status_type>mobile_status_update</j.0:status_type>
+        <j.0:permalink_url>https://www.facebook.com/3070031879779630/posts/1859839474132216</j.0:permalink_url>
+      </rdf:Description>
+    </j.0:post>
+  </rdf:Description>
+</rdf:RDF>
